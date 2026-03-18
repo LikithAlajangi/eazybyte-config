@@ -1,0 +1,12 @@
+
+
+loans:
+  message: "Welcome to the EazyBank Loans related QA APIs"
+  contactDetails:
+    name: "quershi mohamad - QA Engineer"
+    email: "qmohamad@gmail.com"
+  onCallSupport:
+    - 33949439292
+
+build:
+  version: "3.4"

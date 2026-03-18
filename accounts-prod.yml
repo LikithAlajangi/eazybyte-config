@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related production APIs"
+  contactDetails:
+    name: "Smita Das - product owner"
+    email: "smithareliance@gmail.com"
+  onCallSupport:
+    - 1234567890

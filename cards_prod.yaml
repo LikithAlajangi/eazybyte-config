@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: "2.5"
+
+cards:
+  message: "Welcome to the EazyBank Cards related Production APIs"
+  contactDetails:
+    name: "deppti varma - product owner"
+    email: "deeptireliance@gmail.com"
+  onCallSupport:
+    - 1234432133

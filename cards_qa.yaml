@@ -1,0 +1,12 @@
+
+
+build:
+  version: "2.2"
+
+cards:
+  message: "Welcome to the EazyBank Cards related QA APIs"
+  contactDetails:
+    name: "shyam reddy - QA tester"
+    email: "shyamreddy@gmail.com"
+  onCallSupport:
+    - 6361514321

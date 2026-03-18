@@ -1,0 +1,12 @@
+
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "shyam Rao - QA Engineer"
+    email: "shyamRao@gmail.com"
+  onCallSupport:
+    - 234829494392

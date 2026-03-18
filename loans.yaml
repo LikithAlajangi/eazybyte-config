@@ -1,0 +1,12 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to the EazyBank loans related local APIs"
+  contactDetails:
+    name: "Likith Alajangi - Developer"
+    email: "alajangilikith@gmail.com"
+  onCallSupport:
+    - 9390176840

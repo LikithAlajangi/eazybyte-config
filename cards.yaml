@@ -1,0 +1,13 @@
+
+
+
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to the EazyBank cards related local APIs"
+  contactDetails:
+    name: "Likith Alajangi - Developer"
+    email: "alajangilikith@gmail.com"
+  onCallSupport:
+    - 9390176840
