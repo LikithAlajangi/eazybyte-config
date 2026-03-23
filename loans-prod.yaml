@@ -1,6 +1,6 @@
 
 loans:
-  message: "Welcome to the EazyBank Loans related production APIs"
+  message: "Welcome to the EazyBank Loans related PRODUCTION APIs"
   contactDetails:
     name: "prakash nayak - product owner"
     email: "prakash21@gmail.com"
