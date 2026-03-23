@@ -5,7 +5,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the EazyBank accounts related webhook PRODUCTION APIs"
+  message: "Welcome to the EazyBank accounts related PRODUCTION APIs"
   contactDetails:
     name: "Smita Das - product owner"
     email: "{cipher}d2bcab85d07880ad032431a7e70162f9902e7664fa02c168c9fa0f6b03b0182aa5cd2174d31bce755e1f1fc60aeeb30e"
