@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the EazyBank accounts related local APIs"
+  message: "Welcome to the EazyBank accounts related local docker APIs"
   contactDetails:
     name: "Likith Alajangi - Developer"
     email: "alajangilikith@gmail.com"
